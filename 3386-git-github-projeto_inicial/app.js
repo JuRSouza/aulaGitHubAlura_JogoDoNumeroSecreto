@@ -1,5 +1,5 @@
 let listaDeNumerosSorteados = [];
-let numeroLimite = 20;// Alteração para fazer commit
+let numeroLimite = 100;// Alteração para fazer commit
 let numeroSecreto = gerarNumeroAleatorio();
 let tentativas = 1;
 
